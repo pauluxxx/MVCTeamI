@@ -1,0 +1,10 @@
+﻿@model MVCTeamProducts.Models.ViewModel.ProductListVm
+<h2>Products</h2>
+@foreach (var p in Model.Products)
+	{
+        <tr>
+        <td>@p.Product.Name</td>
+        <td>@p.Product.Price</td>
+        <td>@p.AccountTypeLabel</td>
+        </tr>    	 
+	}

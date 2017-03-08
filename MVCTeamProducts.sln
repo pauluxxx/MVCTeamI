@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTeamProducts", "MVCTeamProducts\MVCTeamProducts.csproj", "{AE5E24A5-9146-420A-B9D5-4BF7E2E5C360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTeamProducts.Tests", "MVCTeamProducts.Tests\MVCTeamProducts.Tests.csproj", "{D4165EBD-3D02-4C3D-B668-DF53513455BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5E24A5-9146-420A-B9D5-4BF7E2E5C360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5E24A5-9146-420A-B9D5-4BF7E2E5C360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5E24A5-9146-420A-B9D5-4BF7E2E5C360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5E24A5-9146-420A-B9D5-4BF7E2E5C360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4165EBD-3D02-4C3D-B668-DF53513455BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4165EBD-3D02-4C3D-B668-DF53513455BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4165EBD-3D02-4C3D-B668-DF53513455BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4165EBD-3D02-4C3D-B668-DF53513455BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
