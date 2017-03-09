@@ -37,3 +37,14 @@ C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamPr
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\StructureMap.pdb
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\StructureMap.xml
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\Ninject.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll

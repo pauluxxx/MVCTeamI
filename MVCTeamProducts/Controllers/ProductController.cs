@@ -14,7 +14,7 @@ namespace MVCTeamProducts.Controllers
         IProductVmBuilder builder;
         public ActionResult Index()
         {
-            var prods = manager.GetProductsByType(2);
+            var prods = manager.GetProductsByType(1);
             var prodVm = builder.GetVmList(prods);
             return View(prodVm);
         }

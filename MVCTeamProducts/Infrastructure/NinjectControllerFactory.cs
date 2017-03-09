@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 
-namespace MVCTeamProducts
+namespace MVCTeamProducts.Infrastructure
 {
     class NinjectControllerFactory : DefaultControllerFactory
     {

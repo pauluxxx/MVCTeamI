@@ -32,3 +32,13 @@ C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamPr
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\StructureMap.pdb
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\StructureMap.xml
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\StructureMap.Net4.pdb
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\MVCTeamProducts.dll.config
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Net.Http.Formatting.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Web.Http.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Web.Http.WebHost.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Net.Http.Formatting.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Web.Http.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\System.Web.Http.WebHost.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.Http.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.Http.WebHost.resources.dll
