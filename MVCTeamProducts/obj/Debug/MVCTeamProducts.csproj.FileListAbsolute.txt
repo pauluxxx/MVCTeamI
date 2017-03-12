@@ -22,7 +22,6 @@ C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamPr
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.WebPages.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.WebPages.Deployment.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.WebPages.Razor.resources.dll
-C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.csprojResolveAssemblyReference.cache
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.pdb
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\Ninject.dll
@@ -42,3 +41,12 @@ C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamPr
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Net.Http.Formatting.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.Http.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.csprojResolveAssemblyReference.cache
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\EntityFramework.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\EntityFramework.SqlServer.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\EntityFramework.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\EntityFramework.SqlServer.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\MySql.Data.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\bin\MySql.Data.Entity.EF6.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.Migrations.Initial.resources
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts\obj\Debug\MVCTeamProducts.csproj.GenerateResource.Cache

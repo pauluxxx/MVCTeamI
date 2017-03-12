@@ -8,13 +8,15 @@ namespace MVCTeamProducts.Models.Domain
 {
     public class Account
     {
-        public int UserId { get; set; }
+ 
+        public int AccountId { get; set; }
         public AccountType AccountType { get; set; }
         public Account(AccountDto dto)
         {
-            this.UserId = dto.UserId;
+            this.AccountId = dto.UserId;
             this.AccountType = (AccountType)dto.AccountType;
         }
+        public Account() { }
 
 
     }

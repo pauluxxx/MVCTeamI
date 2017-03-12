@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace MVCTeamProducts.Business.Repositories
 {
-    public interface IAccountRepository
+    public interface IAccountRepository <T> where T: class
     {
+        
+      
         Account GetById(int UserId);
     }
 }

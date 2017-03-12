@@ -13,7 +13,7 @@ namespace MVCTeamProducts.Tests.RepositoriesTests
         public void GetProducts()
         {
             //arrange
-            var prodRep = new ProductRepository();
+            var prodRep = new ProductRepositoryDto();
             //act
             var resProducts = prodRep.GetProducts();
             //assert
@@ -26,7 +26,7 @@ namespace MVCTeamProducts.Tests.RepositoriesTests
         public void GetPremiumProducts()
         {
             //arrange
-            var prodRep = new ProductRepository();
+            var prodRep = new ProductRepositoryDto();
             //act
             var resProducts = prodRep.GetPremiumProducts();
             //assert

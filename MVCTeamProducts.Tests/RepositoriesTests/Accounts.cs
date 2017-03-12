@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MVCTeamProducts.Business.Repositories;
+using MVCTeamProducts.Models.Domain;
 
 namespace MVCTeamProducts.Tests.RepositoriesTests
 {
@@ -11,13 +12,13 @@ namespace MVCTeamProducts.Tests.RepositoriesTests
         [TestMethod]
         public void GetById()
         {
-            IAccountRepository rep = new AccountRepository();
+            IAccountRepository<Account> rep = new AccountRepositoryDto();
             var userId =1;
             var resById = rep.GetById(userId);
-            Assert.AreEqual(resById.UserId, userId);
+            Assert.AreEqual(resById.AccountId, userId);
             userId = 2;
             resById = rep.GetById(userId);
-            Assert.AreEqual(resById.UserId, userId);
+            Assert.AreEqual(resById.AccountId, userId);
             userId = 1002;
             resById = rep.GetById(userId);
             Assert.IsNull(resById);

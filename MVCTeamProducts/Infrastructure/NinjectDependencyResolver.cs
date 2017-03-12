@@ -8,6 +8,8 @@ using System.Configuration;
 using System;
 using System.Web.Mvc;
 using System.Collections.Generic;
+using MVCTeamProducts.Models.Domain;
+
 namespace MVCTeamProducts.Infrastructure
 {
     public class NinjectDependencyResolver : IDependencyResolver
@@ -30,8 +32,8 @@ namespace MVCTeamProducts.Infrastructure
         {
             kernel.Bind<IProductManager>().To<ProductManager>();
             kernel.Bind<IProductVmBuilder>().To<ProductVmBuilder>();
-            kernel.Bind<IAccountRepository>().To<AccountRepository>();
-            kernel.Bind<IProductRepository>().To<ProductRepository>();
+            kernel.Bind<IAccountRepository<Account>>().To<MySqlLAccouuntRepository>();
+            kernel.Bind<IProductRepository>().To<ProductRepositoryDto>();
 
 
         }

@@ -8,15 +8,16 @@ namespace MVCTeamProducts.Models.Domain
 {
     public class Product
     {
-        public uint Id { get; set; }
+        public int ProductId { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
         public bool isPremium { get; set; }
         public Product(ProductDto dto,AccountType accountType) {
-            this.Id = dto.Id;
+            this.ProductId = dto.Id;
             this.Name = dto.Name;
             this.Price = dto.Price;
             this.isPremium = accountType == AccountType.Premium;
         }
+        public Product() { }
     }
 }

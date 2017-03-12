@@ -7,7 +7,7 @@ namespace MVCTeamProducts.DTO
 {
     public class ProductDto
     {
-        public uint Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
     }

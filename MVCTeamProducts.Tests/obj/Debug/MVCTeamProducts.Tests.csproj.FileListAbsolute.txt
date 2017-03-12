@@ -48,3 +48,7 @@ C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamPr
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Web.Http.resources.dll
 C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\EntityFramework.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\EntityFramework.xml
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\paulu\OneDrive\Документы\Visual Studio 2012\Projects\MVCTeamProducts\MVCTeamProducts.Tests\bin\Debug\MySql.Data.dll

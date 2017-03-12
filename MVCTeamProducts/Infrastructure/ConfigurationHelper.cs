@@ -1,6 +1,7 @@
 ﻿using MVCTeamProducts.Business.Managers;
 using MVCTeamProducts.Business.Repositories;
 using MVCTeamProducts.Business.VmBuilders;
+using MVCTeamProducts.Models.Domain;
 using StructureMap;
 using System;
 using System.Collections.Generic;
@@ -15,8 +16,8 @@ namespace MVCTeamProducts.Infrastructure
         {
             x.For<IProductManager>().Use<ProductManager>();
             x.For<IProductVmBuilder>().Use<ProductVmBuilder>();
-            x.For<IAccountRepository>().Use<AccountRepository>();
-            x.For<IProductRepository>().Use<ProductRepository>();
+            x.For<IAccountRepository<Account>>().Use<MySqlLAccouuntRepository>();
+            x.For<IProductRepository>().Use<ProductRepositoryDto>();
         }
     }
 }

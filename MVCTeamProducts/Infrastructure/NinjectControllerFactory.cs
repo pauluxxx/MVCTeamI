@@ -1,6 +1,7 @@
 ﻿using MVCTeamProducts.Business.Managers;
 using MVCTeamProducts.Business.Repositories;
 using MVCTeamProducts.Business.VmBuilders;
+using MVCTeamProducts.Models.Domain;
 using Ninject;
 using System;
 using System.Collections.Generic;
@@ -29,8 +30,8 @@ namespace MVCTeamProducts.Infrastructure
         {
             kernel.Bind<IProductManager>().To<ProductManager>();
             kernel.Bind<IProductVmBuilder>().To<ProductVmBuilder>();
-            kernel.Bind<IAccountRepository>().To<AccountRepository>();
-            kernel.Bind<IProductRepository>().To<ProductRepository>();
+            kernel.Bind<IAccountRepository<Account>>().To<MySqlLAccouuntRepository>();
+            kernel.Bind<IProductRepository>().To<MySqlProductsRepository>();
 
         }
     }

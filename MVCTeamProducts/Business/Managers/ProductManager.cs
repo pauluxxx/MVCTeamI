@@ -9,9 +9,10 @@ namespace MVCTeamProducts.Business.Managers
 {
     public class ProductManager : IProductManager
     {
-        private readonly IAccountRepository accountsRepository;
+
+        private readonly IAccountRepository<Account> accountsRepository;
         private readonly IProductRepository productsRepository;
-        public ProductManager(IAccountRepository accountsRepository, IProductRepository productsRepository)
+        public ProductManager(IAccountRepository<Account> accountsRepository, IProductRepository productsRepository)
         {
             this.accountsRepository = accountsRepository;
             this.productsRepository = productsRepository;
